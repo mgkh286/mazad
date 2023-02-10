@@ -41,8 +41,11 @@ body {
 .hero .col-1 {
   border: 1px solid gold;
   display: flex;
+  justify-content: center;
+  align-items: center;
   margin-bottom: 2rem;
   gap: 2rem;
+  padding: 1rem 2rem;
 }
 /* .footer-social-links li a {
   color: #fff;
